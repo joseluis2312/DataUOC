@@ -1,3 +1,1 @@
-# DataUOC
-# DataUOC V1
-# DataUOC V1
+# Ejercicios Curso Data Scientist FOAP 2024
